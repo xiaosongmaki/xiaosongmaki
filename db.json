@@ -1,0 +1,28 @@
+{
+  "users": [
+    { 
+      "id": 1, 
+      "name": "张三",
+      "email": "zhangsan@example.com"
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "email": "lisi@example.com" 
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "第一篇文章",
+      "content": "这是第一篇文章的内容。",
+      "userId": 1
+    },
+    {
+      "id": 2, 
+      "title": "第二篇文章",
+      "content": "这是第二篇文章的内容。",
+      "userId": 2
+    }
+  ]
+}
