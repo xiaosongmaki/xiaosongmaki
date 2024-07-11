@@ -14,14 +14,14 @@
   "posts": [
     {
       "id": 1,
-      "title": "第一篇文章",
-      "content": "这是第一篇文章的内容。",
+      "title": "第一篇广告",
+      "content": "更多优惠请关注tokoai工具库",
       "userId": 1
     },
     {
       "id": 2, 
-      "title": "第二篇文章",
-      "content": "这是第二篇文章的内容。",
+      "title": "第二篇广告",
+      "content": "想要变强，关注tokoai",
       "userId": 2
     }
   ]
