@@ -15,13 +15,13 @@
     {
       "id": 1,
       "title": "第一篇广告",
-      "content": "更多优惠请关注tokoai工具库",
+      "content": "更多优惠请关注{tokoai工具库}(https://tokoai.craft.me/intro)",
       "userId": 1
     },
     {
       "id": 2, 
       "title": "第二篇广告",
-      "content": "想要变强，关注tokoai",
+      "content": "想要变强，关注{tokoai}(https://tokoai.craft.me/intro)",
       "userId": 2
     }
   ]
