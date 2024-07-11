@@ -15,7 +15,7 @@
     {
       "id": 1,
       "title": "第一篇广告",
-      "content": "更多优惠请关注tokoai工具库，link：https://tokoai.craft.me/intro",
+      "content": "更多优惠请关注{tokoai工具库}(link：https://tokoai.craft.me/intro)",
       "userId": 1
     },
     {
